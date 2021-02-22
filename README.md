@@ -11,7 +11,21 @@ It has 2 parts -
 2. Page Model(contain handlers - controller methods)
 
 
-![alt text](https://github.com/[shubhie267]/[AllAboutCSharp]/blob/urlmaps.png?raw=true)
-
 
 ![alt text](https://github.com/shubhie267/AllAboutCSharp/blob/main/urlmaps.png)
+
+#### STEP 1 -- 
+
+Nuget packages installed in visual studio 2019 : 4 packages should be there
+
+1. microsoft.entityframeworkcore
+2. microsoft.entityframeworkcore.sqlserver
+3. microsoft.entityframeworkcore.tools - (for migration)
+4. microsoft.ASPnetcore.mvc.razor.RuntimeCompilation
+
+
+#### STEP 2 --
+
+setup connection string
+
+
