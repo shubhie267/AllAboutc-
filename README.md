@@ -45,7 +45,7 @@ make folder - Model - inside this make class - named book.cs
 
 open SSMS then connect with LocalDB -
 
-#### TSEP 6 --
+#### STEP 6 --
 
 add class in Model - ApplicationDBContext // comment // which gets inherited from DBContext
 
